@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Tomas
-- 👀 I’m interested in change career
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me (https://www.linkedin.com/in/tomas-m-493ba2247/)
+
 
 
 <!---
